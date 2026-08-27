@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Lucas",
+        "telefone": "48 999864640"
+    },
+    {
+        "id": 2,
+        "nome": "João Vitor",
+        "telefone": "48 12987356"
+    },
+    {
+        "id": 3,
+        "nome": "Jerry",
+        "telefone": "48 21079344"
+    },
+    {
+        "id": 4,
+        "nome": "Edjandir",
+        "telefone": "48 1231283"
+    },
+    {
+        "id": 5,
+        "nome": "Erick",
+        "telefone": "48 813274184"
+    }
+]

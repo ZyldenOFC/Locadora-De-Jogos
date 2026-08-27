@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "GTA VI",
+        "genero": "SandBox Story Mode",
+        "disponivel": false
+    },
+    {
+        "id": 2,
+        "nome": "Roblox",
+        "genero": "Sandbox",
+        "disponivel": true
+    },
+    {
+        "id": 3,
+        "nome": "Minecraft",
+        "genero": "Sandbox",
+        "disponivel": true
+    },
+    {
+        "id": 4,
+        "nome": "Friday Night Funkin",
+        "genero": "Music",
+        "disponivel": true
+    }
+]
